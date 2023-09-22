@@ -1,6 +1,1 @@
 hi
-<<<<<<< HEAD
-hello from tinu
-=======
-hi i am siva aa
->>>>>>> eead5eef574b8e1058edf61ca0446e830df83b34
